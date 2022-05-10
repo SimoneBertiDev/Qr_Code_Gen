@@ -1,0 +1,6 @@
+{
+    "name": "simob/qr_code_gen",
+    "require": {
+        "chillerlan/php-qrcode": "^4.3"
+    }
+}
